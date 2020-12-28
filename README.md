@@ -1,6 +1,7 @@
 # epaper
 This is a library driven by 52Pi E-ink, which can drive 2.13 inch electronic paper and other sizes of electronic paper.
 * Currently, only 2.13 inch screen support is provided.
+- [] 2.13 Inch E-Ink
 ## How to use it
 * Snap the 2.13 inch epaper hat board into the Raspberry Pi GPIO
 * OS Requirement: Raspberry Pi OS 
@@ -14,3 +15,4 @@ cd epaper/
 python3 eink2.13_demo.py
 ```
 And the display will flash `red`, `black`, `white` and finally a picture.
+
